@@ -1,1 +1,1 @@
-# Resumini
+# Swasthya AI

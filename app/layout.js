@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Resumini",
-  description: "Resume Builder with Gemini",
+  title: "Swasthya AI",
+  description: "",
 };
 
 export default function RootLayout({ children }) {
