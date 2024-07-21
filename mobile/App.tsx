@@ -13,7 +13,7 @@ function App(): React.JSX.Element {
     <SafeAreaView style={styles.container}>
       <ScrollView contentContainerStyle={styles.scrollView}>
         <View style={styles.view}>
-          <Text style={styles.text}>Swasthya AI</Text>
+          <Text style={styles.text}>WellBeing AI</Text>
         </View>
       </ScrollView>
     </SafeAreaView>

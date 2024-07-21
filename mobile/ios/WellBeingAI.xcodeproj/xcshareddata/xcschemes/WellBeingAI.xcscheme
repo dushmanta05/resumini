@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "SwasthyaAI.app"
-               BlueprintName = "SwasthyaAI"
-               ReferencedContainer = "container:SwasthyaAI.xcodeproj">
+               BuildableName = "WellBeingAI.app"
+               BlueprintName = "WellBeingAI"
+               ReferencedContainer = "container:WellBeingAI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SwasthyaAITests.xctest"
-               BlueprintName = "SwasthyaAITests"
-               ReferencedContainer = "container:SwasthyaAI.xcodeproj">
+               BuildableName = "WellBeingAITests.xctest"
+               BlueprintName = "WellBeingAITests"
+               ReferencedContainer = "container:WellBeingAI.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SwasthyaAI.app"
-            BlueprintName = "SwasthyaAI"
-            ReferencedContainer = "container:SwasthyaAI.xcodeproj">
+            BuildableName = "WellBeingAI.app"
+            BlueprintName = "WellBeingAI"
+            ReferencedContainer = "container:WellBeingAI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SwasthyaAI.app"
-            BlueprintName = "SwasthyaAI"
-            ReferencedContainer = "container:SwasthyaAI.xcodeproj">
+            BuildableName = "WellBeingAI.app"
+            BlueprintName = "WellBeingAI"
+            ReferencedContainer = "container:WellBeingAI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,4 +1,4 @@
-package com.swasthyaai
+package com.wellbeingai
 
 import android.app.Application
 import com.facebook.react.PackageList

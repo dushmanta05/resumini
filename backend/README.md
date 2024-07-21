@@ -1,1 +1,1 @@
-# Swasthya AI Backend
+# WellBeing AI Backend

@@ -1,1 +1,1 @@
-# Swasthya AI
+# WellBeing AI
