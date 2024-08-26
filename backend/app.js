@@ -5,14 +5,14 @@ import ChatController from "./controllers/ChatController.js";
 
 const app = express();
 dotenv.config();
-const PORT = 3000;
+const PORT = 3001;
 
 app.listen(PORT, (error) => {
   if (!error) console.log(`Server is running on port ${PORT}`);
   else console.log("Error occurred, server can't start", error);
 });
 
-app.get("/", async (req, res) => {
+app.get("/", async (_, res) => {
   res.end("Hello, WellBeing AI!");
 });
 
