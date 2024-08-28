@@ -9,7 +9,6 @@ export function ChatInput({ onSubmit }) {
   const [prompt, setPrompt] = useState("");
 
   const handleSubmit = (e) => {
-    console.log("Hello")
     e.preventDefault();
     onSubmit(prompt);
     setPrompt("");
